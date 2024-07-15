@@ -10,6 +10,8 @@
 
 int main(void)
 {
+    initBoard(1);
+    
     /* Replace with your application code */
     while (1) 
     {
