@@ -2,7 +2,7 @@
  * Reaction-Game.c
  *
  * Created: 15.07.2024 16:26:43
- * Author : e2Kuerzi
+ * Author : L.Kuerzi, R.Bivona
  */ 
 
 #include "ucBoardDriver.h"
