@@ -14,6 +14,15 @@ int main(void)
     
     
     
+    //RGB-Variabeln
+    uint16_t rot = 0;
+    uint16_t gruen = 0;
+    uint16_t blau = 0;
+    
+    //Zeit-Variabeln
+    uint64_t Systemtime = 0;
+    
+    
     
     while (1) 
     {
