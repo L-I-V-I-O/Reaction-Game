@@ -27,7 +27,7 @@ int main(void)
     while (1) 
     {
     //EINGABE--------------------------------------------------
-    
+    Systemtime = getSystemTimeMs();
     
     
         
