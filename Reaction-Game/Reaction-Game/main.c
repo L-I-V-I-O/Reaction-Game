@@ -21,7 +21,8 @@ int main(void)
     
     //Zeit-Variabeln
     uint64_t Systemtime = 0;
-    
+    uint64_t nextrgbOn = 0;
+    uint64_t nextrgbOff = 0;
     
     
     while (1) 
@@ -33,7 +34,9 @@ int main(void)
         
         
     //VERARBEITUNG---------------------------------------------
-    
+    for (uint8_t i = 0; ; )
+    {
+    }
     
     
         
